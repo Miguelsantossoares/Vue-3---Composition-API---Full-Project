@@ -1,5 +1,5 @@
 <template>
-  <Header />
+  <Header></Header>
   <div class="container">
     <Balance :total="total" />
     <IncomeExpenses :income="+income" :expenses="+expenses" />
