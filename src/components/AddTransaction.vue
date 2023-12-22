@@ -12,7 +12,7 @@
       >
       <input type="text" id="amount" placeholder="Inserir valor" v-model="amount" />
     </div>
-    <button class="btn"><svg-icon type="mdi" :path="path"></svg-icon> Adicionar</button>
+    <button class="btn">Adicionar</button>
   </form>
 </template>
 

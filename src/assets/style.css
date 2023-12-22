@@ -95,6 +95,7 @@ input[type="number"] {
 
 .btn {
   cursor: pointer;
+  padding-top: 50px;
   background-color: rgb(0,160,255);
   box-shadow: var(--box-shadow);
   color: #fff;
